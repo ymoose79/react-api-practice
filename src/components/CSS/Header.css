@@ -1,0 +1,12 @@
+.App-header {
+    background-color: #234995;
+    height: 15vh;
+    display: flex;
+    margin: 2rem 5rem;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #f6f6f6;
+    border-radius: 5px;
+    
+  }
